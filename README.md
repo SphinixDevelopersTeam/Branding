@@ -1,3 +1,6 @@
+# Sphinix Branding
+Тут вы можете найти все логотипы проектов Sphinix.
+
 # Sphinix
 
 > [![Основоной логотип Sphinix](Sphinix/Sphinix.png)](https://branding.sphinix.ru/Sphinix/Sphinix.png) <br> 
@@ -36,10 +39,10 @@
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPServers.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPServers.svg "Ссылка на скачивание SVG")
 
-> [![Основной логотип SphinixServers без фона](SphinixServers/WebsiteIcons/IconServers.png)](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconServers.png) <br> 
-Версия основного логотипа Sphinix без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
-[Скачать PNG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconServers.png "Ссылка на скачивание PNG")
-[Скачать SVG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconServers.svg "Ссылка на скачивание SVG")
+> [![Основной логотип SphinixServers без фона](SphinixServers/WebsiteIcons/IconServers.png)](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconServers.png) <br> 
+Версия основного логотипа SphinixServers без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
+[Скачать PNG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconServers.png "Ссылка на скачивание PNG")
+[Скачать SVG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconServers.svg "Ссылка на скачивание SVG")
 
 > [![Баннер SphinixServers](SphinixServers/Banners/BannerServers.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerServers.png) <br> 
 Баннер с использованием основного логотипа SphinixServers.<br>
@@ -55,15 +58,15 @@
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPRoleplay.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPRoleplay.svg "Ссылка на скачивание SVG")
 
-> [![Основной логотип SphinixServers RolePlay без фона](SphinixServers/WebsiteIcons/IconRoleplay.png)](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.png) <br> 
+> [![Основной логотип SphinixServers RolePlay без фона](SphinixServers/WebsiteIcons/IconRoleplay.png)](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconRoleplay.png) <br> 
 Версия основного логотипа SphinixServers RolePlay без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
-[Скачать PNG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.png "Ссылка на скачивание PNG")
-[Скачать SVG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.svg "Ссылка на скачивание SVG")
+[Скачать PNG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconRoleplay.png "Ссылка на скачивание PNG")
+[Скачать SVG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconRoleplay.svg "Ссылка на скачивание SVG")
 
-> [![Баннер SphinixServers RolePlay](SphinixServers/Banners/BannerRoleplay.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.png) <br> 
+> [![Баннер SphinixServers RolePlay](SphinixServers/Banners/BannerRoleplay.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerRoleplay.png) <br> 
 Баннер с использованием основного логотипа SphinixServers RolePlay.<br>
-[Скачать PNG](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.png "Ссылка на скачивание PNG")
-[Скачать SVG](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.svg "Ссылка на скачивание SVG")
+[Скачать PNG](https://branding.sphinix.ru/SphinixServers/Banners/BannerRoleplay.png "Ссылка на скачивание PNG")
+[Скачать SVG](https://branding.sphinix.ru/SphinixServers/Banners/BannerRoleplay.svg "Ссылка на скачивание SVG")
 
 ## SphinixServers Event's
 
@@ -72,10 +75,10 @@
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPEvents.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPEvents.svg "Ссылка на скачивание SVG")
 
-> [![Основной логотип SphinixServers Event's без фона](SphinixServers/WebsiteIcons/IconEvents.png)](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconEvents.png) <br> 
+> [![Основной логотип SphinixServers Event's без фона](SphinixServers/WebsiteIcons/IconEvents.png)](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconEvents.png) <br> 
 Версия основного логотипа SphinixServers Event's без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
-[Скачать PNG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconEvents.png "Ссылка на скачивание PNG")
-[Скачать SVG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconEvents.svg "Ссылка на скачивание SVG")
+[Скачать PNG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconEvents.png "Ссылка на скачивание PNG")
+[Скачать SVG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconEvents.svg "Ссылка на скачивание SVG")
 
 > [![Баннер SphinixServers Event's](SphinixServers/Banners/BannerEvents.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerEvents.png) <br> 
 Баннер с использованием основного логотипа SphinixServers Event's.<br>
@@ -89,10 +92,10 @@
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPSkyblock.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPSkyblock.svg "Ссылка на скачивание SVG")
 
-> [![Основной логотип SphinixServers SkyBlock без фона](SphinixServers/WebsiteIcons/IconSkyblock.png)](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconSkyblock.png) <br> 
+> [![Основной логотип SphinixServers SkyBlock без фона](SphinixServers/WebsiteIcons/IconSkyblock.png)](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconSkyblock.png) <br> 
 Версия основного логотипа SphinixServers SkyBlock без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
-[Скачать PNG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconSkyblock.png "Ссылка на скачивание PNG")
-[Скачать SVG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconSkyblock.svg "Ссылка на скачивание SVG")
+[Скачать PNG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconSkyblock.png "Ссылка на скачивание PNG")
+[Скачать SVG](https://branding.sphinix.ru/SphinixServers/WebsiteIcons/IconSkyblock.svg "Ссылка на скачивание SVG")
 
 > [![Баннер SphinixServers SkyBlock](SphinixServers/Banners/BannerSkyblock.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerSkyblock.png) <br> 
 Баннер с использованием основного логотипа SphinixServers SkyBlock.<br>
