@@ -1,15 +1,15 @@
 # Sphinix
 
-> [![Основоной логотип Sphinix](Sphinix\Sphinix.png)](https://branding.sphinix.ru/Sphinix/Sphinix.png) <br> 
+> [![Основоной логотип Sphinix](Sphinix/Sphinix.png)](https://branding.sphinix.ru/Sphinix/Sphinix.png) <br> 
 Основной логотип Sphinix. Он используется как временный логотип в официальных ресурсах проектов, а так же как логотип головной компании.<br>
 [Скачать PNG](https://branding.sphinix.ru/Sphinix/Sphinix.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/Sphinix/Sphinix.svg "Ссылка на скачивание SVG")
 
-> [![Основной логотип Sphinix без фона](Sphinix\Sphinix_transparent.png)](https://branding.sphinix.ru/Sphinix/Sphinix_transparent.png) <br> 
+> [![Основной логотип Sphinix без фона](Sphinix/Sphinix_transparent.png)](https://branding.sphinix.ru/Sphinix/Sphinix_transparent.png) <br> 
 Версия основного логотипа Sphinix без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
 [Скачать PNG](https://branding.sphinix.ru/Sphinix\Sphinix_transparent.png "Ссылка на скачивание PNG")
 
-> [![Баннер Sphinix](Sphinix\Sphinix_banner.png)](https://branding.sphinix.ru/Sphinix/Sphinix_banner.png) <br> 
+> [![Баннер Sphinix](Sphinix/Sphinix_banner.png)](https://branding.sphinix.ru/Sphinix/Sphinix_banner.png) <br> 
 Баннер с использованием основного логотипа Sphinix. Он используется как временный баннер в официальных ресурсах проектов, а так же как баннер головной компании.<br>
 [Скачать PNG](https://branding.sphinix.ru/Sphinix/Sphinix_banner.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/Sphinix/Sphinix_banner.svg "Ссылка на скачивание SVG")
@@ -18,7 +18,7 @@
 
 # SphinixDev
 
-> [![Основоной логотип SphinixDev](SphinixDev\SphinixDev.png)](https://branding.sphinix.ru/SphinixDev/SphinixDev.png) <br> 
+> [![Основоной логотип SphinixDev](SphinixDev/SphinixDev.png)](https://branding.sphinix.ru/SphinixDev/SphinixDev.png) <br> 
 Основной логотип SphinixDev. Им пользуется команда разработчиков Sphinix.<br>
 [Скачать PNG](https://branding.sphinix.ru/SphinixDev/SphinixDev.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixDev/SphinixDev.svg "Ссылка на скачивание SVG")
@@ -55,12 +55,12 @@
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPRoleplay.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Profile%20Pics/PFPRoleplay.svg "Ссылка на скачивание SVG")
 
-> [![Основной логотип SphinixServers RolePlay без фона](SphinixServers/Websiteicons/IconRoleplay.png)](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.png) <br> 
+> [![Основной логотип SphinixServers RolePlay без фона](SphinixServers/WebsiteIcons/IconRoleplay.png)](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.png) <br> 
 Версия основного логотипа SphinixServers RolePlay без заднего фона. Он используется при наложении его на другие изображения и в тех местах, где версия с фоном смотрится не красиво.<br>
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Websiteicons/IconRoleplay.svg "Ссылка на скачивание SVG")
 
-> [![Баннер SphinixServers RolePlay](SphinixServers/Banners/BannerRolePlay.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.png) <br> 
+> [![Баннер SphinixServers RolePlay](SphinixServers/Banners/BannerRoleplay.png)](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.png) <br> 
 Баннер с использованием основного логотипа SphinixServers RolePlay.<br>
 [Скачать PNG](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.png "Ссылка на скачивание PNG")
 [Скачать SVG](https://branding.sphinix.ru/SphinixServers/Banners/BannerRolePlay.svg "Ссылка на скачивание SVG")
