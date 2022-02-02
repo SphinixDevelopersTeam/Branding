@@ -1,8 +1,6 @@
 # Sphinix Branding
 Тут вы можете найти все логотипы проектов Sphinix.
 
-# Sphinix
-
 > [![Основоной логотип Sphinix](Sphinix/Sphinix.png)](https://branding.sphinix.ru/Sphinix/Sphinix.png) <br> 
 Основной логотип Sphinix. Он используется как временный логотип в официальных ресурсах проектов, а так же как логотип головной компании.<br>
 [Скачать PNG](https://branding.sphinix.ru/Sphinix/Sphinix.png "Ссылка на скачивание PNG")
